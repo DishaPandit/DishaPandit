@@ -33,7 +33,7 @@
 
 I am a Java Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Lucknow, India.
 
-- :telescope: I’m working as a Software Engineer at Amdocs, Pune and contributing to backend side for development, enhancements and bug fixes for a product owned by Amdocs.
+- :telescope: I’m working as a Senior Software Engineer at Amdocs, Gurugram and contributing to backend side for development, enhancements and bug fixes for a product named Service Assurance Suite(Helix) owned by Amdocs.
 
 - :seedling: I'm currently learning Data Structures and Algorithms.
 
