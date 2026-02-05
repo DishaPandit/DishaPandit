@@ -53,15 +53,6 @@ I'm a Senior Software Engineer with **5.5+ years** of experience building scalab
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DishaPandS&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DishaPandS&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" height="165"/>
-</p>
-
----
-
 ## 🎯 Current Focus
 
 📚 **Continuous Learning**
