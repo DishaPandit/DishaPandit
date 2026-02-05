@@ -1,69 +1,107 @@
-<div id="badges" align="center">
-  <h1>
-  Hey, there!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
+# Disha Pandit 👩‍💻
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="200"/>
-</div>
+**Senior Software Engineer | Java Backend Specialist | Open to Remote/Hybrid Opportunities**
 
-<p></p>
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/disha-pandit-ab935a172/">
-    <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/__d.i.s.h.a.__/">
-    <img src="https://img.shields.io/badge/Instagram-darkmagenta?logo=instagram&logoColor=white&style=plastic"/>
-  </a>
-</div>
-<div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=DishaPandit&style=flat-sqaure&color=brightgreen" alt=""/>
- </div>
- <p></p>
- <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="550" height="300"/>
-</div>
+📍 Gurugram, India | 🎓 B.Tech, NIT Rourkela | 💼 Currently @ Amdocs
 
 ---
 
-### :woman_technologist: About Me :
+## 🚀 About Me
 
-I am a Java Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Lucknow, India.
+I'm a Senior Software Engineer with **5.5+ years** of experience building scalable backend systems and microservices. Currently contributing to enterprise-level solutions at Amdocs, specializing in **Service Assurance SaaS** platforms. I'm passionate about writing clean, maintainable code and architecting robust backend solutions.
 
-- :telescope: I’m working as a Senior Software Engineer at Amdocs, Gurugram and contributing to backend side for development, enhancements and bug fixes for a product named Service Assurance Suite(Helix) owned by Amdocs.
-
-- :seedling: I'm currently learning Data Structures and Algorithms.
-
-- :zap: In my free time, I love to scroll memes and read books.
-
-- :mailbox:How to reach me : [![Linkedin Badge](https://img.shields.io/badge/-DishaPandit-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/disha-pandit-ab935a172/)   [![Gmail Badge](https://img.shields.io/badge/-DishaPandit-red?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/1/?view=cm&fs=1&to=dishapandit1998@gmail.com&tf=1)
+**🌍 Currently seeking remote/hybrid opportunities** as an SDE 2/Senior Java Developer where I can contribute to innovative projects and work with distributed teams.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+## 💼 Professional Experience
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="JIRA" alt="JIRA" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle DB" alt="Oracle DB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+### **Senior Software Engineer** @ Amdocs
+*Backend Development | Service Assurance SaaS*
+
+- Developing and maintaining high-performance backend services for telecom service assurance
+- Implementing microservices architecture with Java Spring Boot
+- Contributing to system design and architectural decisions
+- Collaborating with cross-functional teams in an agile environment
+
+---
+
+## 🛠️ Technical Stack
+
+### **Languages & Frameworks**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### **Backend Technologies**
+- **Core:** Spring Framework, Spring Boot, Hibernate, JPA
+- **Microservices:** RESTful APIs, Microservice Architecture
+- **Databases:** PostgreSQL, MySQL
+- **Message Queues:** Apache Kafka
+- **Caching:** Redis, HazelCast
+
+### **DevOps & Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+- CI/CD: Jenkins, GitHub Actions
+- Cloud: AWS, Azure
+- Monitoring: Grafana, Prometheus
+- Testing: JUnit, Mockito, TestNG
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=DishaPandS&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DishaPandS&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" height="165"/>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+📚 **Continuous Learning**
+- Advanced System Design Patterns & Distributed Systems Architecture
+- Data Structures & Algorithms (Active on LeetCode)
+- Cloud-Native Application Development
+
+💼 **Career Goals**
+- Seeking **SDE 2 / Senior Java Developer** positions
+- Open to **fully remote opportunities** globally
+- Ready to contribute to impactful projects with modern tech stacks
+
+---
+
+## 🌟 Key Strengths
+
+- ✅ **Backend Architecture:** Designing scalable microservices and RESTful APIs
+- ✅ **Problem Solving:** Strong foundation in Data Structures & Algorithms
+- ✅ **Code Quality:** Writing clean, maintainable, and well-documented code
+- ✅ **Team Collaboration:** Experience working in agile, cross-functional teams
+- ✅ **Remote Work:** Self-motivated and experienced in distributed team environments
+
+---
+
+## 📫 Let's Connect
+
+I'm actively looking for **remote SDE 2 / Senior Java Developer** positions. If you have an exciting opportunity or want to discuss potential collaborations, feel free to reach out!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/disha-pandit-ab935a172/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:disha20.pandit@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/DishaPandit)
+
+---
+
+<div align="center">
+  
+### 💡 Open to Remote/Hybrid Opportunities 
+
+**"Writing code that makes a difference, one commit at a time."**
+
+![Profile Views](https://komarev.com/ghpvc/?username=DishaPandS&color=brightgreen&style=for-the-badge)
+
 </div>
-
----
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DishaPandit&theme=highcontrast)](https://git.io/streak-stats)
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DishaPandit&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
