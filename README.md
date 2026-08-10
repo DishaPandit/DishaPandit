@@ -77,6 +77,13 @@ I'm a Senior Software Engineer with **5.5+ years** of experience building scalab
 
 ---
 
+### ✍️ Writing
+I write about more than code — engineering, and whatever else is on my mind.
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ## 📫 Let's Connect
 
 I'm actively looking for **remote SDE 2 / Senior Java Developer** positions. If you have an exciting opportunity or want to discuss potential collaborations, feel free to reach out!
