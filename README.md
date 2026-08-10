@@ -45,7 +45,7 @@ Built backend features for a banking-domain product (ABSA, South Africa) — inc
 
 ### **Backend Technologies**
 
-- **Core:** Java 17, C++, SQL, Spring Framework, Spring Boot, Quarkus, Hibernate, JPA
+- **Core:** Java 17, SQL, Spring Framework, Spring Boot, Quarkus, Hibernate, JPA
 - **Microservices:** RESTful APIs, Microservice Architecture
 - **Databases:** PostgreSQL, Oracle
 - **Message Queues:** Apache Kafka (in progress)
