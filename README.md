@@ -24,6 +24,8 @@ Own three systems end-to-end — not side projects, production systems with my n
 - **ISM** — Core DevOps tooling inside the HelixInstaller ecosystem, powering environment setup and runtime configuration for large-scale enterprise deployments. Built and maintained install scripts, config orchestration, and platform-specific customizations.
 - **Sentinel Copilot** — Backend for an agentic AI copilot that turns natural-language requests into real platform actions: dashboard widget creation, LLM orchestration, multi-turn flows, validation against live UI context.
 - **FamRCA** — ML/RCA pipeline and core algorithm package for root-cause analysis in fault management, including FOSS compliance, security scanning, and reliability of the learning stack.
+- **Fam Anomaly** — I own the anomaly scoring pipeline and the core algorithm package. It scores FM alarm keywords from time-series event data using frequency, severity, and co-occurrence centrality to flag unusual system behavior.
+- **Fam Predictor** — I own the predictor pipeline and the core algorithm package: offline learning from historical alarms and online real-time alarm prediction for the fault management system.
 
 Also migrated critical modules from Oracle to PostgreSQL, automated deployment workflows, and led CRM version migrations across branches.
 
