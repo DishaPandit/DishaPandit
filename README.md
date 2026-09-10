@@ -110,9 +110,9 @@ Building something? Or just hiring — either works. I'm open to **Remote / Delh
 [![Profile Views](https://komarev.com/ghpvc/?username=DishaPandit&color=brightgreen&style=for-the-badge)](https://komarev.com/ghpvc/?username=DishaPandit&color=brightgreen&style=for-the-badge)
 
 <!-- BLOG-POST-LIST:START -->
+- [The Invisible Safety Manual Every Woman Learns](https://medium.com/@builtbydisha/the-invisible-safety-manual-every-woman-learns-1d6e30ed3620?source=rss-66f35d871088------2)
 - [The Body I Spent Years Fighting](https://medium.com/@builtbydisha/the-body-i-spent-years-fighting-e3d61893c6c1?source=rss-66f35d871088------2)
 - [The Friends I Thought Were Family](https://medium.com/@builtbydisha/the-friends-i-thought-were-family-decac0564321?source=rss-66f35d871088------2)
 - [Chapter 10: Breaking an Old Belief](https://medium.com/@builtbydisha/chapter-10-breaking-an-old-belief-8dc8fde39619?source=rss-66f35d871088------2)
 - [Chapter 9: Wearing the Jersey](https://medium.com/@builtbydisha/chapter-9-wearing-the-jersey-13593238b5a5?source=rss-66f35d871088------2)
-- [Chapter 8: The Hidden Injury](https://medium.com/@builtbydisha/chapter-9-the-hidden-injury-53912801c313?source=rss-66f35d871088------2)
 <!-- BLOG-POST-LIST:END -->
