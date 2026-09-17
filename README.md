@@ -110,9 +110,9 @@ Building something? Or just hiring — either works. I'm open to **Remote / Delh
 [![Profile Views](https://komarev.com/ghpvc/?username=DishaPandit&color=brightgreen&style=for-the-badge)](https://komarev.com/ghpvc/?username=DishaPandit&color=brightgreen&style=for-the-badge)
 
 <!-- BLOG-POST-LIST:START -->
+- [Almost Two Years Later, I Rolled Out My Mat Again](https://medium.com/@builtbydisha/for-thirty-minutes-i-got-my-body-back-0ce52ebf2e43?source=rss-66f35d871088------2)
 - [The ₹13,000 “Scam” That Saved Me ₹23 Lakhs](https://medium.com/@builtbydisha/the-13-000-scam-that-saved-me-23-lakhs-ba56dbe50e3c?source=rss-66f35d871088------2)
 - [The Invisible Safety Manual Every Woman Learns](https://medium.com/@builtbydisha/the-invisible-safety-manual-every-woman-learns-1d6e30ed3620?source=rss-66f35d871088------2)
 - [The Body I Spent Years Fighting](https://medium.com/@builtbydisha/the-body-i-spent-years-fighting-e3d61893c6c1?source=rss-66f35d871088------2)
 - [The Friends I Thought Were Family](https://medium.com/@builtbydisha/the-friends-i-thought-were-family-decac0564321?source=rss-66f35d871088------2)
-- [Chapter 10: Breaking an Old Belief](https://medium.com/@builtbydisha/chapter-10-breaking-an-old-belief-8dc8fde39619?source=rss-66f35d871088------2)
 <!-- BLOG-POST-LIST:END -->
